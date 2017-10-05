@@ -19,4 +19,19 @@
 # Variables 
 ## One of the most basic concepts in computer programming is the variable. You can think of a variable as a word or name that grasps a single value. 
 
+# Math
+## Ruby isn't limited to simple expressions; it can also do all the math you learned about in school.
+
+## Below are six arithmetic operators:
+### Addition (+)
+### Subtraction (-)
+### Multiplication (*)
+### Division (/)
+### Exponentiation (**)
+### Modulo (%)
+
+##  Exponentiation raises one number (the base) to the power of the other (the exponent).
+## Modulo returns the remainder of division
+
+#
 ## 
