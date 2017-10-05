@@ -42,3 +42,8 @@
 
 # The '.length' Method
 ## Methods are summoned using a `.`. If you have a string, `"I love espresso"`, and take the `.length` of it, Ruby will return the length of the string (that is, the number of characters—letters, numbers, spaces, and symbols). 
+
+## Taking the length of input can be useful if, for example, you want to make a website that takes credit card payments. Ruby can check to make sure the credit card number appears to be valid.
+
+# '.upcase' & '.downcase'
+## Two more method are the `.upcase` and `.downcase` methods; it convert a string to ALL UPPER CASE or all lower case, respectively.
