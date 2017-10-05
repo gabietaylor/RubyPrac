@@ -39,3 +39,6 @@
 
 # Everything in Ruby is an Object
 ## Because everything in Ruby is an object, everything in Ruby has certain built-in abilities called methods. Think of methods as "skills" that certain objects have. For instance,strings (words or phrases) have built-in methods that can tell you the length of the string, reverse the string, and more.
+
+# The '.length' Method
+## Methods are summoned using a `.`. If you have a string, `"I love espresso"`, and take the `.length` of it, Ruby will return the length of the string (that is, the number of characters—letters, numbers, spaces, and symbols). 
