@@ -20,4 +20,5 @@ print "Oxnard Montalvo"
 
 puts "Gabrielle".length
 puts "Gabrielle".reverse
-
+puts "gabrielle".upcase 
+puts "gabrielle".downcase
