@@ -15,10 +15,12 @@ puts my_exp
 my_mod = 25 % 7;
 puts my_mod
 
-puts "What's up?"
 print "Oxnard Montalvo"
 
 puts "Gabrielle".length
 puts "Gabrielle".reverse
 puts "gabrielle".upcase 
 puts "gabrielle".downcase
+
+# this is a comment and it will not show
+
