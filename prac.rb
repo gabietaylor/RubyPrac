@@ -14,3 +14,6 @@ puts my_exp
 
 my_mod = 25 % 7;
 puts my_mod
+
+puts "What's up?"
+print "Oxnard Montalvo"
