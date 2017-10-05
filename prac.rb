@@ -1,18 +1,18 @@
 puts "Hello World!"
 
-my_num = 25;
+my_num = 25
 puts my_num
 
-my_boolean = true;
+my_boolean = true
 puts my_boolean
 
-my_string = "Ruby";
+my_string = "Ruby"
 puts my_string
 
-my_exp = 2**3;
+my_exp = 2**3
 puts my_exp
 
-my_mod = 25 % 7;
+my_mod = 25 % 7
 puts my_mod
 
 print "Oxnard Montalvo"
@@ -30,3 +30,22 @@ I don't need any # symbols.
 
 name = "Gabrielle"
 puts name
+
+my_name = "Gabrielle"
+puts my_name
+
+my_age = 25
+puts my_age
+
+sum = 13 + 379
+puts sum
+
+product = 923 * 15
+puts product
+
+quotient = 13209 / 17
+puts quotient
+
+puts name.downcase
+puts name.upcase
+puts name.reverse
