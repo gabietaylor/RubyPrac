@@ -23,4 +23,7 @@ puts "gabrielle".upcase
 puts "gabrielle".downcase
 
 # this is a comment and it will not show
-
+=begin
+I'm a comment!
+I don't need any # symbols.
+=end
