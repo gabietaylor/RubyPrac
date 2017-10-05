@@ -17,3 +17,7 @@ puts my_mod
 
 puts "What's up?"
 print "Oxnard Montalvo"
+
+puts "Gabrielle".length
+puts "Gabrielle".reverse
+
