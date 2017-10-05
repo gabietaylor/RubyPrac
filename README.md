@@ -58,3 +58,6 @@
 #### You can write a comment that spans multiple lines by starting each line with a `#`, but there's an easier way. If you start with `=begin` and end with `=end`, everything between those two expressions will be a comment. 
 
 #### Don't put any space between the `=` sign and the words `begin` or `end`. You can do that with math (`2 + 5` is the same as `2+5`), but in this case, Ruby will get confused. `=begin` and `=end` also need to be on lines all by themselves.
+
+# Naming Conventions
+#### There are many different kinds of variables you'll encounter as you progress through these courses, but right now we're just concerned with regular old local variables. By convention, these variables should start with a lowercase letter and words should be separated by underscores, like `counter` and `masterful_method`. Ruby won't stop you from starting your local variables with other symbols, such as capital letters, `$`s, or `@`s, but by convention these mean different things, so it's best to avoid confusion by doing what the Ruby community does.
