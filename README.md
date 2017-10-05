@@ -33,5 +33,6 @@
 ##  Exponentiation raises one number (the base) to the power of the other (the exponent).
 ## Modulo returns the remainder of division
 
-#
-## 
+# 'puts' and 'print'
+## The print command just takes whatever you give it and prints it to the screen. puts (for "put string") is slightly different: it adds a new (blank) line after the thing you want it to print.
+## No parentheses or semicolons needed!
