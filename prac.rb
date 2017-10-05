@@ -27,3 +27,6 @@ puts "gabrielle".downcase
 I'm a comment!
 I don't need any # symbols.
 =end
+
+name = "Gabrielle"
+puts name
