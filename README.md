@@ -48,3 +48,8 @@
 
 # '.upcase' & '.downcase'
 #### Two more method are the `.upcase` and `.downcase` methods; it convert a string to ALL UPPER CASE or all lower case, respectively.
+
+# Single-Line Comments
+#### The `#` sign is for comments in Ruby.
+
+#### The `#` sign should come before your comment and affects anything you write after it, so long as you're on a single line.
